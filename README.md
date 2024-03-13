@@ -39,4 +39,5 @@ Scrape and analyze Mars weather data in an HTML table.
 
 
 **Conclusion**
+
 This project demonstrated the ability to effectively use web scraping techniques to collect and analyze data from Mars-related websites. The findings provide valuable insights into Martian months, days, temperature, and atmospheric pressure.
